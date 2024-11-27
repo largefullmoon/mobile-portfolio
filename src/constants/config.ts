@@ -46,7 +46,7 @@ export const config: TConfig = {
   },
   hero: {
     name: "Laroslav Fedorenco",
-    p: ["I develop Web and Mobile apps, user", "interfaces and Python backends"],
+    p: ["I develop Mobile applications using", "Java, React Native and Flutter"],
   },
   contact: {
     p: "Get in touch",
@@ -67,9 +67,7 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in Python, TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js for web development and React-natve and Flutter for mobile apps.
+      content: `I'm a skilled software developer with experience in Python, TypeScript, React and Java, and React-natve and Flutter for mobile apps.
       I'm a quick learner and collaborate closely with clients to
       create efficient, scalable, and user-friendly solutions that solve
       real-world problems. Let's work together to bring your ideas to life!`,
